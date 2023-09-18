@@ -1,4 +1,4 @@
-Natural Language Processing with Disaster Tweets - Kaggle Competition
+# Natural Language Processing with Disaster Tweets - Kaggle Competition
 
 Project Overview
 In this Kaggle competition, we aim to leverage natural language processing techniques to classify tweets into two categories: those related to real disasters and those that are not. This task has important applications in disaster response and information dissemination. Our solution involves the following components:
